@@ -1,9 +1,9 @@
 # Oci-Pals-Roof-
 
-  [Node A: Origin Vector] ------------ (Phase 1: High Friction Attempt) -----------> [Node C: End-User Matrix]
+  [Node A: 0rigin ] ------------ (Phase 1: Friction) -----------> [Node C: completion]
          |                                                                                  ^
          |                                                                                  |
-  (Phase 2: Authentication request)                                           (Phase 3: Relayed Clearance Signal)
+  (Phase 2: authenticity)                                           (Phase 3: zero product rivalries)
          |                                                                                  |
          v                                                                                  |
-  [Node B: Anchor Node] --------------------------------------------------------------------+
+  [Node B: lonsa ] --------------------------------------------------------------------+
